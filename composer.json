@@ -1,0 +1,14 @@
+{
+    "name": "bikatti/redirect-pigeonly",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Bikatti B",
+            "email": "ibikatti@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
